@@ -147,3 +147,6 @@ A=['apple', 'banana','pineapple','mango']
 print('Sapota' not  in A)   #result will be true because sapost is not in the tuple in the given variable A
 
 
+
+
+
