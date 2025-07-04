@@ -15,7 +15,6 @@ print("Name of the student: ____________________________________________________
 print("course:______________________ Batch no: ___________________ Timing:_______________")
 print("SI.No    |           PARTICULARS                |          AMOUNT                 ")
 print("__________________________________________________________________________________")
-print("                                                                                  ")
 print("|         |                                      |    Rs.                |   Ps  |")
 print("| 1.      |    Course Fees                       |                       |       |")
 print("| 2.      |    Registration Fees                 |                       |       |")
